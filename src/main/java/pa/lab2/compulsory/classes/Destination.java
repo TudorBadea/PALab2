@@ -1,4 +1,4 @@
-package classes;
+package pa.lab2.compulsory.classes;
 
 public class Destination {
     private String name;
